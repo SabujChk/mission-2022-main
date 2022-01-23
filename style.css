@@ -40,3 +40,37 @@ p .second-pera{
     border-image-slice: 1;
     padding-left: 10px;
 }
+.my-mission{
+    text-align: center;
+    padding-top: 20px;
+}
+.illustrator-image{
+    width: 200%;
+    padding-top: 10px;
+}
+.first-image{
+    width: 25%;
+    margin-left: 5%;
+    padding-left: 20px;
+    padding-right: 50px;
+    border-radius: 10px;
+    box-shadow: 20px 10px 20px rgb(231, 210, 210);
+}
+
+.second-image{
+    width: 25%;
+    margin-left: 5%;
+    padding-left: 20px;
+    padding-right: 50px;
+    border-radius: 10px;
+    box-shadow: 20px 10px 20px rgb(231, 210, 210);
+}
+
+.third-image{
+    width: 25%;
+    margin-left: 5%;
+    padding-left: 20px;
+    padding-right: 50px;
+    border-radius: 10px;
+    box-shadow: 20px 10px 20px rgb(231, 210, 210);
+}
